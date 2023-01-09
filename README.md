@@ -1,2 +1,2 @@
 # Java
-Java Codes that I have written as part of Udemy course called "Java Programming Masterclass": https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fjava-the-complete-java-developer-course%2F
+Java Codes that I have written as part of Udemy course called "Java Programming Masterclass": https://www.udemy.com/course/java-the-complete-java-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-YJ5r1wc8t_0ftMI_7A3M7Q&utm_medium=udemyads&utm_source=aff-campaign
