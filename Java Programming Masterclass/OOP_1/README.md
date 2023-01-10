@@ -7,4 +7,4 @@ This section of the course, OOP 1, covers following topics:
     * Inheritenace
     * Using this and super
 
-The exercises that are complete in this section were intended to practice abovementioned topics
+The exercises that are completed in this section were intended to practice abovementioned topics
