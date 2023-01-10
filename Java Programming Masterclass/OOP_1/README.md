@@ -1,5 +1,5 @@
 This section of the course, OOP 1, covers following topics:
-  * Introduction to classess and objects
+  * Introduction to classess and objects:
     * Using getters and setters
     * Constructors
     * Static vs Instance Variables
