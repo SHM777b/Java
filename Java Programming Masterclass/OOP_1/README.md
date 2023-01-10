@@ -1,4 +1,4 @@
-This section of the course covers following topics:
+This section of the course, OOP 1, covers following topics:
   * Introduction to classess and objects
     * Using getters and setters
     * Constructors
