@@ -1,4 +1,4 @@
-This section of the course, OOP 1, covers following topics:
+This section of the course, OOP 1, covered following topics:
   * Introduction to classess and objects:
     * Using getters and setters
     * Constructors
@@ -7,4 +7,4 @@ This section of the course, OOP 1, covers following topics:
     * Inheritenace
     * Using this and super
 
-The exercises that are completed in this section were intended to practice abovementioned topics
+The exercises that were completed in this section were intended to practice abovementioned topics
